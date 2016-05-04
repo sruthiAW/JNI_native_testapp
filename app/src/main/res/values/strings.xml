@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JNIapp</string>
+    <string name="action_settings">Settings</string>
+</resources>
